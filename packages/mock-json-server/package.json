@@ -1,0 +1,10 @@
+{
+    "name": "@timo/mock-json-server",
+    "version": "0.1.0",
+    "devDependencies": {
+        "@mocks-server/main": "2.4.0"
+    },
+    "scripts": {
+        "mocks": "mocks-server"
+    }
+}
