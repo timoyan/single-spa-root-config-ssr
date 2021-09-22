@@ -1,5 +1,7 @@
 # single-spa-demo-root
 
+The root config microfrontend
+
 ## Packages Installation
 
 - Run `yarn`
